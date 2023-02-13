@@ -72,6 +72,9 @@ body {
     font-weight: var(--fw-regular);
     font-size: 0.9=875rem;
     color: var(--clr-neutral-gray);
-
+    background-color: var(--clr-primary-cream);
+    display: grid;
+    place-content: center;
+    
 
 }
