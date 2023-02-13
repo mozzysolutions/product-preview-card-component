@@ -74,7 +74,8 @@ body {
     color: var(--clr-neutral-gray);
     background-color: var(--clr-primary-cream);
     display: grid;
+    min-height: 100vh;
     place-content: center;
-    
+    margin: 1 rem;
 
 }
